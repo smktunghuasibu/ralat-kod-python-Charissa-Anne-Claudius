@@ -2,7 +2,7 @@
 # Betulkan ralat dalam kod Python ini.
 
 def calculation(a, b):    
-    division = a / b
+    division = a / b 
     return round(division, 2)
 
 def get_input():
